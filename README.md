@@ -23,7 +23,8 @@ Additionally, it tracks revenue and order counts by month and displays trends ov
 In summary, this dashboard offers insights into sales performance across different customer demographics, product categories, and time periods.
 
 
-![Uploading Product page.jpg…]()
+![Uploading Customer page.jpg…]()
+
 
 
 
