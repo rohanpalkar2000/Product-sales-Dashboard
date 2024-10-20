@@ -2,7 +2,7 @@
 
 The Product Sales Dashboard provides an overview of various sales metrics, likely created using Power BI. Here are the key metrics and features:
 
-Total Revenue: ₹24.91M
+Total Revenue: ₹24.91M \n
 Total Order Quantity: 84K
 Total Return Quantity: 2K
 Return Rate: 2.17%
