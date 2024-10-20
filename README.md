@@ -23,4 +23,7 @@ Additionally, it tracks revenue and order counts by month and displays trends ov
 In summary, this dashboard offers insights into sales performance across different customer demographics, product categories, and time periods.
 
 
-https://github.com/rohanpalkar2000/Product-sales-Dashboard/blob/main/Product%20Sales%20Dashboard.pdf
+![Uploading Product page.jpg…]()
+
+
+
